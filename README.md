@@ -1,18 +1,48 @@
+# 👋 ¡Hola! Soy Rafa Cuadrado
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafacuadrado) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafacuadrado&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rafacuadrado&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafacuadrado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rafacuadrado&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Desarrollador de software** apasionado por construir soluciones eficientes y de alto impacto. Me gusta aprender nuevas tecnologías y contribuir a proyectos open source.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rafacuadrado&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre mí
+- 💼 Trabajo en desarrollo de software y sistemas.
+- 🛠️ Me encanta crear soluciones creativas y eficientes.
+- 🌎 Siempre aprendiendo e involucrado en proyectos de diversos ámbitos (personal y profesional).
+
+## 🖥️ Lenguajes y Tecnologías
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <!-- Agrega más según tus habilidades -->
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafacuadrado&show_icons=true&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacuadrado&layout=compact&theme=dark" height="150">
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rafacuadrado&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🌟 Proyectos Destacados
+- [Algún proyecto](https://github.com/rafacuadrado/...) — breve descripción.
+- [Otro Proyecto](https://github.com/rafacuadrado/...) — breve descripción.
+<!-- Añade tus proyectos principales aquí -->
+
+---
+
+## 🌐 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafacuadrado)
+
+---
+
+![Visits](https://visitcount.itsvg.in/api?id=rafacuadrado&icon=0&color=0)
+
+<!-- Puedes editar y enriquecer este README agregando lo que consideres relevante. -->
