@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy Rafa Cuadrado (Webi Wabo)
 
-**Desarrollador de software** apasionado por construir soluciones eficientes y de alto impacto. Me gusta aprender nuevas tecnologías y contribuir a proyectos open source.
+**Desarrollador de hardware** 
 
 ---
 
 ## 🚀 Sobre mí
-- 💼 Trabajo en desarrollo de software y sistemas.
-- 🛠️ Me encanta crear soluciones creativas y eficientes para automatización y sistemas embebidos.
+- 💼 Trabajo en desarrollo de firmware y sistemas.
+- 🛠️ Me encanta aprender nuevas maneras de desarrollo sobre todo para sistemas embebidos.
 - 🌎 Siempre aprendiendo e involucrado en proyectos de diversos ámbitos (personal y profesional).
 
 ## 🖥️ Lenguajes y Tecnologías
@@ -34,7 +34,7 @@
 
 ## 🌟 Proyectos Destacados
 - [Red de Sensores IoT](https://github.com/rafacuadrado/proyectoHomeAssitantMySensor) — Proyecto utilizando Arduino/ESP8266 y MQTT para la integración de sensores con Home Assistant.
-- [Otro Proyecto](https://github.com/rafacuadrado/...) — breve descripción.
+- [proyectoHomeAssitantMySensor](https://github.com/rafacuadrado/proyectoHomeAssitantMySensor) — Sistema completo de domótica, escalable usando RaspBerryPI para alojar el sistema usando HomeAssitant y MySensors.
 
 ---
 
