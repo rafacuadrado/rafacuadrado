@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white"/>
   <img src="https://img.shields.io/badge/ABB_RAPID-FFA500?style=for-the-badge&logo=abb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zephyr%20RTOS-7A5092?style=for-the-badge&logo=zephyr&logoColor=white"/>
 </p>
 
 ---
