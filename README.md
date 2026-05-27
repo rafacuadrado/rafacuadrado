@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Rafa Cuadrado
 
-**Desarrollador de software** apasionado por construir soluciones eficientes y de alto impacto. Me gusta aprender nuevas tecnologías y contribuir a proyectos open source.
+**Desarrollador de hardware** apasionado por construir soluciones eficientes y de alto impacto. Me gusta aprender nuevas tecnologías y contribuir a proyectos open source.
 
 ---
 
@@ -44,5 +44,7 @@
 ---
 
 ![Visits](https://visitcount.itsvg.in/api?id=rafacuadrado&icon=0&color=0)
+
+<!-- Puedes editar y enriquecer este README agregando lo que consideres relevante. -->
 
 <!-- Puedes editar y enriquecer este README agregando lo que consideres relevante. -->
