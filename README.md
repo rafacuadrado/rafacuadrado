@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy Rafa Cuadrado
+# 👋 ¡Hola! Soy Rafa Cuadrado (Webi Wabo)
 
-**Desarrollador de hardware** apasionado por construir soluciones eficientes y de alto impacto. Me gusta aprender nuevas tecnologías y contribuir a proyectos open source.
+**Desarrollador de software** apasionado por construir soluciones eficientes y de alto impacto. Me gusta aprender nuevas tecnologías y contribuir a proyectos open source.
 
 ---
 
 ## 🚀 Sobre mí
 - 💼 Trabajo en desarrollo de software y sistemas.
-- 🛠️ Me encanta crear soluciones creativas y eficientes.
+- 🛠️ Me encanta crear soluciones creativas y eficientes para automatización y sistemas embebidos.
 - 🌎 Siempre aprendiendo e involucrado en proyectos de diversos ámbitos (personal y profesional).
 
 ## 🖥️ Lenguajes y Tecnologías
@@ -16,25 +16,25 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <!-- Agrega más según tus habilidades -->
+  <img src="https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ABB_RAPID-FFA500?style=for-the-badge&logo=abb&logoColor=white"/>
 </p>
 
 ---
 
 ## 📈 Estadísticas de GitHub
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafacuadrado&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacuadrado&layout=compact&theme=dark" height="150">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafacuadrado&show_icons=true&theme=dark&locale=es" alt="Estadísticas de rafacuadrado" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacuadrado&layout=compact&theme=dark" alt="Lenguajes Top" width="48%" />
   <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=rafacuadrado&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafacuadrado&theme=dark" alt="Racha de GitHub" width="98%" />
 </p>
 
 ---
 
 ## 🌟 Proyectos Destacados
-- [Algún proyecto](https://github.com/rafacuadrado/...) — breve descripción.
+- [Red de Sensores IoT](https://github.com/rafacuadrado/proyectoHomeAssitantMySensor) — Proyecto utilizando Arduino/ESP8266 y MQTT para la integración de sensores con Home Assistant.
 - [Otro Proyecto](https://github.com/rafacuadrado/...) — breve descripción.
-<!-- Añade tus proyectos principales aquí -->
 
 ---
 
@@ -43,8 +43,6 @@
 
 ---
 
-![Visits](https://visitcount.itsvg.in/api?id=rafacuadrado&icon=0&color=0)
-
-<!-- Puedes editar y enriquecer este README agregando lo que consideres relevante. -->
-
-<!-- Puedes editar y enriquecer este README agregando lo que consideres relevante. -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafacuadrado&label=VISITAS+AL+PERFIL&color=00599C&style=for-the-badge" alt="Contador de Visitas" />
+</div>
